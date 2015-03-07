@@ -5,7 +5,8 @@ O arquivo index.php criar uma pagina html com um formulario para envio de uma me
 
 Style.css
 
-o arquivo style.css é reponsavel pela formatação(estilização) da página index. 
+O arquivo style.css é reponsavel pela formatação(estilização) da página index. 
+
 O arquivo  possuia dois erros de formatação:
 /*background:url(submit.png);
 text-indent:-9999px;*/
